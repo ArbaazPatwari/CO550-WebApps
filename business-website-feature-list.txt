@@ -1,0 +1,8 @@
+Feature List:
+
+-Be able to display at least 6 products on the store page
+-Provide different views for a customer and admin
+-Display a product page for each item - with descriptive information and images
+-Have a basket page to mimic a checkout (no payment handlers used)
+-Have a search bar to sort through products
+-Have a responsive layout for both desktop and mobile screens
