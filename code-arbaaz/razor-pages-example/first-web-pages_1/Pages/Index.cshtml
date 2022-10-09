@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Example Razor Pages</h1>
+    <h2>Arbaaz | Mohammed</h2>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<section>
+    <form>
+        <p>
+            <label>Full name: </label>
+            <input type="text" asp-for="FullName" placeholder="Please enter your full name"/>
+        </p>
+        <p>
+            <label>Email address: </label>
+            <input type="text" placeholder="Please enter your email address" required="true"/>
+        </p>
+        <p>
+            <button type="submit">Save</button>
+        </p>
+
+    </form>
+</section>
+<section>
+    <p>
+        @ViewData["Message"];
+    </p>
+    <p>
+        Thank you for registering!
+    </p>
+</section>
