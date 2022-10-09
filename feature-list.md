@@ -1,6 +1,6 @@
-*For car purchase web app*
+# Feature List
 
-Feature list:
+*For car purchase web app*
 
 1. Web app: Offer at least 6 cars for sale on the store page
 2. Web app: Show description, Images, Videos on a product page
