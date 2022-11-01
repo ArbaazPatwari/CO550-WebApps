@@ -16,5 +16,5 @@
 13. Customer + Staff: Ability to use discount codes when buying a product
 14. Staff: Ability to create, read, update, delete product page information from web app (any page)
 15. Staff: Ability to create, read, update, delete members of staff details, and permissions from web app (from Login page)
-16. Staff: Ability to create and remove sales.
+16. Staff: Ability to create and remove sales, and set sale durations.
 17. Staff: Ability to confirm delivery dates and remove purchases after viewing transactions.
