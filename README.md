@@ -1,4 +1,4 @@
-## CO550 Web Applications Logbooks [Arbaaz | Mohammed]
+## CO550 Web Applications Logbooks [Arbaaz | Mohammed | Brian]
 
 *This is a repository about a business-related website including a back-end database. Technologies such as Razor Pages, MVC, and Blazor will be used.*
 
