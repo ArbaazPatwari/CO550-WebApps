@@ -2,10 +2,7 @@
 
 *For car purchase web app*
 
-**Project Background Improvements**:
-
-
-
+**Project Background Improvements**: Added clarification that 6 Audi models would be sold on the website, and explained why this brand was chosen. The fact that new cars would only be sold on the website was specified, and not used ones.
 
 **Feature List Improvements**:
 
