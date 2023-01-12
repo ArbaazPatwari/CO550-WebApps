@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CW2B_Audi_car_selling_webapp
+build_property.RootNamespace = CW2B_Audi_car_selling_webapp
+build_property.ProjectDir = C:\Users\Arbaaz\Documents\GITHUB\CO550-WebApps-2022\cw2b-project-implementation\CW2b_Audi_WebApp\CW2B-Audi-car-selling-webapp\CW2B-Audi-car-selling-webapp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Arbaaz\Documents\GITHUB\CO550-WebApps-2022\cw2b-project-implementation\CW2b_Audi_WebApp\CW2B-Audi-car-selling-webapp\CW2B-Audi-car-selling-webapp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/cw2b-project-implementation/CW2b_Audi_WebApp/CW2B-Audi-car-selling-webapp/CW2B-Audi-car-selling-webapp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/cw2b-project-implementation/CW2b_Audi_WebApp/CW2B-Audi-car-selling-webapp/CW2B-Audi-car-selling-webapp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/cw2b-project-implementation/CW2b_Audi_WebApp/CW2B-Audi-car-selling-webapp/CW2B-Audi-car-selling-webapp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/cw2b-project-implementation/CW2b_Audi_WebApp/CW2B-Audi-car-selling-webapp/CW2B-Audi-car-selling-webapp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/cw2b-project-implementation/CW2b_Audi_WebApp/CW2B-Audi-car-selling-webapp/CW2B-Audi-car-selling-webapp/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/cw2b-project-implementation/CW2b_Audi_WebApp/CW2B-Audi-car-selling-webapp/CW2B-Audi-car-selling-webapp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/cw2b-project-implementation/CW2b_Audi_WebApp/CW2B-Audi-car-selling-webapp/CW2B-Audi-car-selling-webapp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/cw2b-project-implementation/CW2b_Audi_WebApp/CW2B-Audi-car-selling-webapp/CW2B-Audi-car-selling-webapp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/cw2b-project-implementation/CW2b_Audi_WebApp/CW2B-Audi-car-selling-webapp/CW2B-Audi-car-selling-webapp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ny7suem0q2
