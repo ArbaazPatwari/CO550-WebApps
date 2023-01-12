@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CW2b_RP_Audi.props" />
+</Project>
