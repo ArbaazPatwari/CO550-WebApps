@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arbaaz\\Documents\\GITHUB\\CO550-WebApps-2022\\cw2b-project-implementation\\CW2B_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi.csproj": {}
+    "C:\\Users\\Arzuh\\source\\repos\\ArbaazPatwari\\CO550-WebApps-2022\\cw2b-project-implementation\\CW2B_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arbaaz\\Documents\\GITHUB\\CO550-WebApps-2022\\cw2b-project-implementation\\CW2B_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi.csproj": {
+    "C:\\Users\\Arzuh\\source\\repos\\ArbaazPatwari\\CO550-WebApps-2022\\cw2b-project-implementation\\CW2B_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arbaaz\\Documents\\GITHUB\\CO550-WebApps-2022\\cw2b-project-implementation\\CW2B_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi.csproj",
+        "projectUniqueName": "C:\\Users\\Arzuh\\source\\repos\\ArbaazPatwari\\CO550-WebApps-2022\\cw2b-project-implementation\\CW2B_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi.csproj",
         "projectName": "CW2b_RP_Audi",
-        "projectPath": "C:\\Users\\Arbaaz\\Documents\\GITHUB\\CO550-WebApps-2022\\cw2b-project-implementation\\CW2B_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi.csproj",
-        "packagesPath": "C:\\Users\\Arbaaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arbaaz\\Documents\\GITHUB\\CO550-WebApps-2022\\cw2b-project-implementation\\CW2B_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi\\obj\\",
+        "projectPath": "C:\\Users\\Arzuh\\source\\repos\\ArbaazPatwari\\CO550-WebApps-2022\\cw2b-project-implementation\\CW2B_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi.csproj",
+        "packagesPath": "C:\\Users\\Arzuh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arzuh\\source\\repos\\ArbaazPatwari\\CO550-WebApps-2022\\cw2b-project-implementation\\CW2B_RP_Audi\\CW2b_RP_Audi\\CW2b_RP_Audi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Arbaaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arzuh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -80,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
