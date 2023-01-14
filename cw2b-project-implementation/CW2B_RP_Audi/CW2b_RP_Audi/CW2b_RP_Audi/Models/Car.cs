@@ -5,7 +5,7 @@ namespace CW2b_RP_Audi.Models
 {
     public class Car
     {
-        public int carID { get; set; }
+        public int CarID { get; set; }
 
         [StringLength(30, MinimumLength = 3)]
         public string ModelName { get; set; }
@@ -36,5 +36,10 @@ namespace CW2b_RP_Audi.Models
 
         [StringLength(20, MinimumLength = 3)]
         public string Colour { get; set; }    
+
+        // Navigation properties
+
+        public CarImage CarImage { get; set; }
+
     }
 }
