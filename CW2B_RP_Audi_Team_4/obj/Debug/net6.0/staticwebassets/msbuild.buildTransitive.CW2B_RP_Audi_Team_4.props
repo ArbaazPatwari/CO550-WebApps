@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CW2B_RP_Audi_Team_4.props" />
+</Project>
