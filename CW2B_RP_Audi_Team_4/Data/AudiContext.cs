@@ -19,5 +19,9 @@ namespace CW2B_RP_Audi_Team_4.Data
         public DbSet<Customer> Customers { get; set; }
 
         public DbSet<OrderItem> OrderItems { get; set; }
+
+        public DbSet<CW2B_RP_Audi_Team_4.Models.Order> Order { get; set; }
+
+        public DbSet<CW2B_RP_Audi_Team_4.Models.CarImage> CarImage { get; set; }
     }
 }
