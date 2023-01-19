@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-/*
+
 namespace CW2B_RP_Audi_Team_4.Models
 {
     public class OrderItem
@@ -17,4 +17,3 @@ namespace CW2B_RP_Audi_Team_4.Models
         //public virtual ICollection<Car> Cars { get; set; }
     }
 }
-*/
