@@ -36,7 +36,7 @@ namespace CW2B_RP_Audi_Team_4.Pages.Cars
                 return Page();
             }
 
-            _context.Car.Add(Car);
+            _context.Cars.Add(Car);
             await _context.SaveChangesAsync();
 
             return RedirectToPage("./Index");

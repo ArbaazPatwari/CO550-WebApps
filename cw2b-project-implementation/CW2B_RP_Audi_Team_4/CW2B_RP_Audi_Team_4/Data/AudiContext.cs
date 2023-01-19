@@ -14,6 +14,8 @@ namespace CW2B_RP_Audi_Team_4.Data
         {
         }
 
-        public DbSet<CW2B_RP_Audi_Team_4.Models.Car> Car { get; set; } = default!;
+        public DbSet<Car> Cars { get; set; }
+
+        public DbSet<Customer> Customers { get; set; }
     }
 }

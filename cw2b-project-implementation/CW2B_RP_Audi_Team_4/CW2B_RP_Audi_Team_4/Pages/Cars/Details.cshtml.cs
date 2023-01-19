@@ -23,12 +23,12 @@ namespace CW2B_RP_Audi_Team_4.Pages.Cars
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            if (id == null || _context.Car == null)
+            if (id == null || _context.Cars == null)
             {
                 return NotFound();
             }
 
-            var car = await _context.Car.FirstOrDefaultAsync(m => m.CarID == id);
+            var car = await _context.Cars.FirstOrDefaultAsync(m => m.CarID == id);
             if (car == null)
             {
                 return NotFound();

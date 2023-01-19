@@ -24,12 +24,12 @@ namespace CW2B_RP_Audi_Team_4.Pages.Cars
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            if (id == null || _context.Car == null)
+            if (id == null || _context.Cars == null)
             {
                 return NotFound();
             }
 
-            var car = await _context.Car.FirstOrDefaultAsync(m => m.CarID == id);
+            var car = await _context.Cars.FirstOrDefaultAsync(m => m.CarID == id);
 
             if (car == null)
             {
@@ -44,16 +44,16 @@ namespace CW2B_RP_Audi_Team_4.Pages.Cars
 
         public async Task<IActionResult> OnPostAsync(int? id)
         {
-            if (id == null || _context.Car == null)
+            if (id == null || _context.Cars == null)
             {
                 return NotFound();
             }
-            var car = await _context.Car.FindAsync(id);
+            var car = await _context.Cars.FindAsync(id);
 
             if (car != null)
             {
                 Car = car;
-                _context.Car.Remove(Car);
+                _context.Cars.Remove(Car);
                 await _context.SaveChangesAsync();
             }
 

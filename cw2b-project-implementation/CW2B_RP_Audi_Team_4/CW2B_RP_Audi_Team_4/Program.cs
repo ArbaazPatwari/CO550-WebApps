@@ -1,6 +1,5 @@
 ﻿using CW2B_RP_Audi_Team_4.Data;
 using CW2B_RP_Audi_Team_4.Models;
-using CW2B_RP_Audi_Team_4.Models.Cars;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -8,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+var connectionString = builder.Configuration.GetConnectionString("AudiContext");
 builder.Services.AddDbContext<AudiContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();

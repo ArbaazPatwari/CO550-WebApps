@@ -2,7 +2,7 @@
 using CW2B_RP_Audi_Team_4.Data;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 
-namespace CW2B_RP_Audi_Team_4.Models.Cars;
+namespace CW2B_RP_Audi_Team_4.Models;
 
 public static class SeedData
 {
@@ -12,18 +12,18 @@ public static class SeedData
             serviceProvider.GetRequiredService<
                 DbContextOptions<AudiContext>>()))
         {
-            if (context == null || context.Car == null)
+            if (context == null || context.Cars == null)
             {
                 throw new ArgumentNullException("Null AudiContext");
             }
 
-            // Look for any movies.
-            if (context.Car.Any())
+            // Look for any cars.
+            if (context.Cars.Any())
             {
                 return;   // DB has been seeded
             }
 
-            context.Car.AddRange(
+            context.Cars.AddRange(
                 new Car
                 {
                     ModelName = "Audi RS3",
@@ -102,6 +102,7 @@ public static class SeedData
                     FuelType = "Petrol"
                 }
             );
+            // context.Cars.SaveChanges();
         }
     }
 }

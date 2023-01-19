@@ -25,12 +25,12 @@ namespace CW2B_RP_Audi_Team_4.Pages.Cars
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            if (id == null || _context.Car == null)
+            if (id == null || _context.Cars == null)
             {
                 return NotFound();
             }
 
-            var car =  await _context.Car.FirstOrDefaultAsync(m => m.CarID == id);
+            var car =  await _context.Cars.FirstOrDefaultAsync(m => m.CarID == id);
             if (car == null)
             {
                 return NotFound();
@@ -71,7 +71,7 @@ namespace CW2B_RP_Audi_Team_4.Pages.Cars
 
         private bool CarExists(int id)
         {
-          return _context.Car.Any(e => e.CarID == id);
+          return _context.Cars.Any(e => e.CarID == id);
         }
     }
 }
