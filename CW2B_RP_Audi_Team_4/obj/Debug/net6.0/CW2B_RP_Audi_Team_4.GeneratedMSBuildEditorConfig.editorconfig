@@ -9,145 +9,145 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CW2B_RP_Audi_Team_4
 build_property.RootNamespace = CW2B_RP_Audi_Team_4
-build_property.ProjectDir = C:\Users\Arbaaz\Documents\GITHUB\CO550-WebApps-2022\CW2B_RP_Audi_Team_4\
+build_property.ProjectDir = D:\CO550-23\Arbaaz2\CW2B_RP_Audi_Team_4\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Arbaaz\Documents\GITHUB\CO550-WebApps-2022\CW2B_RP_Audi_Team_4
+build_property.MSBuildProjectDirectory = D:\CO550-23\Arbaaz2\CW2B_RP_Audi_Team_4
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/CarImages/Create.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/CarImages/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FySW1hZ2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/CarImages/Delete.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/CarImages/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FySW1hZ2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/CarImages/Details.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/CarImages/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FySW1hZ2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/CarImages/Edit.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/CarImages/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FySW1hZ2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/CarImages/Index.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/CarImages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FySW1hZ2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Cars/Create.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Cars/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Cars/Delete.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Cars/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Cars/Details.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Cars/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Cars/Edit.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Cars/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Cars/Index.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Cars/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Error.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Index.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/OrderItems/Create.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/OrderItems/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJJdGVtc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/OrderItems/Delete.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/OrderItems/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJJdGVtc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/OrderItems/Details.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/OrderItems/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJJdGVtc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/OrderItems/Edit.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/OrderItems/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJJdGVtc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/OrderItems/Index.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/OrderItems/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJJdGVtc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Orders/Create.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Orders/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Orders/Delete.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Orders/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Orders/Details.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Orders/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Orders/Edit.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Orders/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Orders/Index.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Orders/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Privacy.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Shared/_LoginPartial.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Wishlists/Create.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Wishlists/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2lzaGxpc3RzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Wishlists/Delete.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Wishlists/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2lzaGxpc3RzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Wishlists/Details.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Wishlists/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2lzaGxpc3RzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Wishlists/Edit.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Wishlists/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2lzaGxpc3RzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Wishlists/Index.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Wishlists/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2lzaGxpc3RzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/_ViewImports.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/_ViewStart.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/GITHUB/CO550-WebApps-2022/CW2B_RP_Audi_Team_4/Pages/Shared/_Layout.cshtml]
+[D:/CO550-23/Arbaaz2/CW2B_RP_Audi_Team_4/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ra0vnjbf27

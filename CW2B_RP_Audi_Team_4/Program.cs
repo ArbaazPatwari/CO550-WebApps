@@ -23,8 +23,11 @@ var app = builder.Build();
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
+    var context = services.GetRequiredService<AudiContext>();
 
-    SeedData.Initialize(services);
+    context.Database.EnsureCreated();
+
+    SeedData.Initialize(context);
 }
 
 // Configure the HTTP request pipeline.
