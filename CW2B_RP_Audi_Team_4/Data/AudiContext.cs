@@ -23,5 +23,7 @@ namespace CW2B_RP_Audi_Team_4.Data
         public DbSet<CW2B_RP_Audi_Team_4.Models.Order> Order { get; set; }
 
         public DbSet<CW2B_RP_Audi_Team_4.Models.CarImage> CarImage { get; set; }
+
+        public DbSet<CW2B_RP_Audi_Team_4.Models.Wishlist> Wishlist { get; set; }
     }
 }

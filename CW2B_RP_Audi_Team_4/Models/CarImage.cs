@@ -10,7 +10,7 @@ namespace CW2B_RP_Audi_Team_4.Models
     public class CarImage
     {
 
-         public int CarImageID { get; set; }
+        public int CarImageID { get; set; }
 
         public string ImageUrl { get; set; } = string.Empty;
 
